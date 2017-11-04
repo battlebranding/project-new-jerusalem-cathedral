@@ -6,14 +6,14 @@
 
       <?php get_template_part( 'parts/nav' ); ?>
 
-      <div id="billboard" class="container-fluid" style="padding-top: 30px; background-image: url(<?php echo get_stylesheet_directory_uri() . '/assets/img/newjc-west.jpg' ?>); background-size: cover; background-position: center;">
+      <!--<div id="billboard" class="container-fluid" style="padding-top: 30px; background-image: url(<?php echo get_stylesheet_directory_uri() . '/assets/img/newjc-west.jpg' ?>); background-size: cover; background-position: center;">
          <div class="container">
             <div class="row">
             </div>
          </div>
-      </div>
+      </div>-->
       <?php // echo do_shortcode('[sermon]'); ?>
-      <!-- <div id="billboard" class="container-fluid">
+      <div id="billboard" class="container-fluid">
          <div class="container">
             <div class="row">
                <div class="col-md-12 text-center">
@@ -22,8 +22,8 @@
                </div>
             </div>
          </div>
-	 </div>-->
-      <div class="filter" style="display: none;"></div>
+	 </div>
+      <div class="filter"></div>
    </header><!-- #header -->
 
    <?php echo do_shortcode('[upcoming_event]'); ?>

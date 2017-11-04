@@ -1,3 +1,6 @@
+body {
+  font-family: 'Raleway', sans-serif; }
+
 a {
   color: #cc3333; }
   a:hover {
@@ -40,7 +43,7 @@ body > .background {
   right: 0;
   z-index: -1; }
 body > .background {
-  background-image: url(../img/newjc-1822-crowd-shot-filtered.jpg); }
+  background-image: url(../img/newjc-crowd-shot-hands-raised.jpg); }
 
 #header {
   height: 100%;
