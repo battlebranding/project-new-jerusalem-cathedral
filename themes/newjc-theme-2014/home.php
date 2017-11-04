@@ -70,7 +70,7 @@
       </div>
    </div>
 
-   <div class="container-fluid" style="background-color: #333; color: #fff; text-align: center;">
+   <div class="container-fluid" style="background-color: #333; color: #fff; text-align: center; display: none;">
       <div class="container">
          <div class="row">
             <h2>A Special Thank You to Our 2016 Ministry Sponsors</h2>
