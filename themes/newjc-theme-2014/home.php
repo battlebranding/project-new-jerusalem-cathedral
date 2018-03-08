@@ -18,7 +18,7 @@
             <div class="row">
                <div class="col-md-12 text-center">
                   <h1>An Innovative Church That Provokes the Culture of the Kingdom of God</h1>
-                  <p><a class="btn btn-warning btn-lg" role="button" href="<?php echo home_url(); ?>/homelessness">Learn More</a></p>
+                  <p><a class="btn btn-warning btn-lg" role="button" href="<?php echo home_url(); ?>/connect">Learn More</a></p>
                </div>
             </div>
          </div>
